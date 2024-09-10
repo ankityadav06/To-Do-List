@@ -1,0 +1,12 @@
+🌟 Project Showcase: To-Do List Web App 🌟
+
+I recently built a responsive To-Do List web application using Flask, MySQL, and Bootstrap! This app allows users to:
+
+🔹 Add and manage tasks
+🔹 Enjoy a clean, responsive UI with Bootstrap
+
+Key Highlights:
+Backend: Flask for seamless routing and task handling
+Database: MySQL to store and manage task data
+Frontend: Bootstrap for responsive and modern design
+This project improved my understanding of full-stack web development, including integrating Bootstrap for a better UI/UX and handling CRUD operations with Flask and MySQL.
